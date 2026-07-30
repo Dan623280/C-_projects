@@ -14,17 +14,20 @@ int n_ejercicios = int.Parse(Console.ReadLine());
 Console.Write("Calificación obtenida en un quiz, de 0 a 100: ");
 int calificacion = int.Parse(Console.ReadLine());
 
-int Pedirnumero(string mensaje)
+int PedirNumero(string mensaje)
 {
+    int numero;
+
     Console.Write(mensaje);
-    
-    while(!int.TryParse(Console.ReadLine(), out int numero))
+
+    while (!int.TryParse(Console.ReadLine(), out numero))
     {
         Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine("Error: No es un número válido. Intenta de nuevo.");
+        Console.WriteLine("Error: no es un número válido. Intenta de nuevo.");
         Console.ResetColor();
+
         Console.Write(mensaje);
     }
-    return numero; 
-}
 
+    return numero;
+}
