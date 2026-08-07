@@ -1,0 +1,15 @@
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/bin/Debug/net10.0/Ejercicios05-08-2026
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/bin/Debug/net10.0/Ejercicios05-08-2026.deps.json
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/bin/Debug/net10.0/Ejercicios05-08-2026.runtimeconfig.json
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/bin/Debug/net10.0/Ejercicios05-08-2026.dll
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/bin/Debug/net10.0/Ejercicios05-08-2026.pdb
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/Ejercicios05-08-2026.GeneratedMSBuildEditorConfig.editorconfig
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/Ejercicios05-08-2026.AssemblyInfoInputs.cache
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/Ejercicios05-08-2026.AssemblyInfo.cs
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/Ejercicios05-08-2026.csproj.CoreCompileInputs.cache
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/Ejercicios05-08-2026.sourcelink.json
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/Ejercicios05-08-2026.dll
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/refint/Ejercicios05-08-2026.dll
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/Ejercicios05-08-2026.pdb
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/Ejercicios05-08-2026.genruntimeconfig.cache
+/home/Cohorte5/Escritorio/Daniel Alvarez/Ejercicios05-08-2026/obj/Debug/net10.0/ref/Ejercicios05-08-2026.dll
